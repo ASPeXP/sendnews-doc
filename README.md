@@ -9,12 +9,13 @@ npm run dev
 ```
 
 ## What is Send News Pro
-It's tiny SAAS to schedule to send message to Line application group.
+It's tiny SAAS to schedule to send messages(text, images, videos or mixed) to Line application group. ตั้งเวลาส่งข้อความ รูปภาพ วิดีโอ ไปยังกลุ่มไลน์ของคุณได้ง่าย ๆ 
 
 ## Url: https://sendnews.pro
 ## Roadmap: [https://sendnews.pro/docs/roadmap](https://sendnews.pro/docs/roadmap)
 
 ## Packages: [https://sendnews.pro/packages](https://sendnews.pro/packages)
+
 # 1. เริ่มต้น
 ราคา
 ฿249/เดือน
